@@ -355,7 +355,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-  scholar:
+scholar:
     last_name: [Santander]
     first_name: [Sara, S.]
 
