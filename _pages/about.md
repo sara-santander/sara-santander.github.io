@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Geneva, Switzerland</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an applied economist from Bolivia. My work so far has focused on the evaluation of public policy in developing countries. I am completing an MSc in Economics with a specialization in econometrics at the University of Geneva.
+I am an applied economist from Bolivia. My work is focused on the evaluation of public policy in developing countries. I am completing an MSc in Economics with a specialization in econometrics at the University of Geneva.
 
 My research has used household survey data and causal inference methods to ask whether policies reach the people they are meant to help. I have studied tobacco tax policy in Bolivia using Deaton's spatial price adjustment and a Heckman selection model, in a paper published in [*Health Economics*](https://doi.org/10.1002/hec.4931). With Marcelo Olarreaga, I wrote a CEPR book chapter on who bears the cost of US tariffs. My master's thesis uses a regression discontinuity design to study whether eligibility for Bolivia's 2017 HPV vaccination rollout changed adolescent behaviour. My undergraduate research used microsimulation to assess how school closures during the pandemic could set back progress against multidimensional poverty in Bolivia, and was awarded a prize in the undergraduate category at the Central Bank of Bolivia's 15th Meeting of Economists.
 
