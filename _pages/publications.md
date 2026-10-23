@@ -18,3 +18,11 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+## Acknowledged contributions
+
+<div class="publications">
+
+{% bibliography --file contributions %}
+
+</div>
